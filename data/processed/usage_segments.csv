@@ -1,0 +1,4 @@
+"usage_segment","accounts","segment_share_percentage","churned_accounts","churn_rate_percentage","avg_lifetime_months"
+low usage,272,54.40,191,70.22,8.36
+medium usage,219,43.80,154,70.32,2.96
+high usage,9,1.80,7,77.78,2.22
