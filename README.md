@@ -14,7 +14,7 @@ data/ – данные
 python/ – анализ на Python  
 sql/ – SQL-запросы  
 visuals/ – графики  
-Global SaaS Growth, Churn & Retention.pdf/ – отчет о проекте  
+global_saas_growth_churn_retention.pdf/ – отчет о проекте  
 
 ## Методология 
 - Анализ роста продукта (число новых пользователей в месяц, общее число пользователей по месяцам, процентное изменение числа новых пользователей в месяц MoM)
@@ -86,4 +86,4 @@ Global SaaS Growth, Churn & Retention.pdf/ – отчет о проекте
 - В большинстве случаев нет данных по окончанию подписок.
 - Слабая связь между продуктовой активностью и удержанием пользователей.
 
-**Полный отчет о проекте**: [Global SaaS Growth, Churn & Retention.pdf](Global SaaS Growth, Churn & Retention.pdf)
+**Полный отчет о проекте**: [global_saas_growth_churn_retention.pdf](global_saas_growth_churn_retention.pdf)
