@@ -1,4 +1,9 @@
 # Анализ международного SaaS-продукта: рост, отток и удержание пользователей
+[![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-2.3+-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/seaborn-0.13+-3776AB?logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![JupyterLab](https://img.shields.io/badge/JupyterLab-4.4.6-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 ## О проекте
 В рамках проекта на SQL и Python проведен анализ роста продукта, вовлеченности, активации, оттока и удержания пользователей, а также связи продуктовой активности с удержанием для условного SaaS-бизнеса.
